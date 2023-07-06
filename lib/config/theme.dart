@@ -36,7 +36,7 @@ ThemeData theme() {
         fontWeight: FontWeight.w400,
         color: Color(0xff000000),
         // fontFamily: 'Ledger',
-        fontSize: 160,
+        fontSize: 140,
       ),
     ),
   );
